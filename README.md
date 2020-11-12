@@ -1,4 +1,4 @@
-# Avia-tickets-js
+# Avia tickets js
 An avia-tickets project for sale
 
 ## Used API
